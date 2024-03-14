@@ -12,7 +12,7 @@ Home work 1
 
 ![Пример изображения](Screen/proof_mongo.png "Пример изображения")
 
-![Пример изображения](Screen/mongo\ insert.png "Пример изображения")
+![Пример изображения](Screen/mongo_insert.png "Пример изображения")
 
 ![Пример изображения](Screen/mongo_proof_insert.png "Пример изображения")
 
